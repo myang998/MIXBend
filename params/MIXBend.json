@@ -1,0 +1,10 @@
+{
+	"epoch": 100,
+    "batch_size": 64,
+    "lr":1e-4,
+    "max_padding_len":50,
+    "embedding_dim":128,
+    "dropout":0.5,
+    "n_head": 8,
+    "k": 0.1
+}
